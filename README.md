@@ -10,7 +10,7 @@
 
 Simple discord bot written in python for obfuscating lua files sent by a user in a specific channel (also works in direct messages). 
 Useful for securing your lua scripts (work with fivem/roblox etc resources).
-<b>This is a modified version for repl and heroku.</b>
+<br><b>This is a modified version for repl and heroku.</b>
 If you are trying to run this from your desktop just use the original source from yunglean4171: https://github.com/yunglean4171/discord-bot-lua-obfuscator
 
 ```
