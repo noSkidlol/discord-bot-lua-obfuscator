@@ -3,9 +3,6 @@
 # Live Preview: https://discord.gg/STaq3UDbqQ
 <img src="https://i.imgur.com/DlO9XIa.png">
 
- 
-
-
 # Original code: https://github.com/yunglean4171
 
 Simple discord bot written in python for obfuscating lua files sent by a user in a specific channel (also works in direct messages). 
@@ -37,3 +34,5 @@ Select Enable Automatic Deploys then Deploy Branch<br />
 Go to Settings->Reveal Config Vars<br />
 Add DISCORD_TOKEN in environmental variables.<br />
 Done.
+
+I have also made a simple version of this bot plugin for Red-DiscordBot: https://github.com/jmesfo0/jmes-cogs
