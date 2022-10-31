@@ -11,11 +11,11 @@ Useful for securing your lua scripts (work with fivem/roblox etc resources).
 If you are trying to run this from your desktop just use the original source from yunglean4171: https://github.com/yunglean4171/discord-bot-lua-obfuscator<br><br>
 
 
-In repl start a blank template and import from github.com. https://github.com/jmesfo0/discord-bot-lua-obfuscator 
-In repl put DISCORD_TOKEN in system environment variables.
-In repl shell type ```chmod +x bin/*``` to allow lit luvi & luvit to be executed.
-In repl shell type ```pip install -r requirements.txt```
-Enjoy your free private obfuscator.
+In repl start a blank template and import from github.com. https://github.com/jmesfo0/discord-bot-lua-obfuscator <br>
+In repl put DISCORD_TOKEN in system environment variables. <br>
+In repl shell type ```chmod +x bin/*``` to allow lit luvi & luvit to be executed. <br>
+In repl shell type ```pip install -r requirements.txt```<br>
+Enjoy your free private obfuscator.<br>
 
 
 ## Required python modules:
