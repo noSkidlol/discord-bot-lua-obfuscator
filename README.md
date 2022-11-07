@@ -1,7 +1,5 @@
 # discord-bot-lua-obfuscator (python 3.7.9)
 
-<img src="https://i.imgur.com/DlO9XIa.png">
-
 # Original code: https://github.com/yunglean4171
 <br>
 yunglean4171 discord: https://discord.gg/ATcuD9eXqq<br>
