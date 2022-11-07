@@ -5,6 +5,7 @@
 
 # Original code: https://github.com/yunglean4171
 <br>
+yunglean4171 discord: https://discord.gg/ATcuD9eXqq<br>
 <b>Update: Don't ask yunglean4171 for support.<br>
 Just join my discord server and I will gladly help you.<br>https://discord.gg/STaq3UDbqQ<br><br>
 
