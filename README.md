@@ -5,7 +5,7 @@
 
 # Original code: https://github.com/yunglean4171
 <br>
-<b>Update: Don't ask [@yunglean4171](https://github.com/yunglean4171) for support.<br>
+<b>Update: Don't ask [yunglean4171](https://github.com/yunglean4171) for support.<br>
 Just [join my discord](https://discord.gg/STaq3UDbqQ) and I will gladly help you.<br><br>
 
 Simple discord bot written in python for obfuscating lua files sent by a user in a specific channel (also works in direct messages). 
